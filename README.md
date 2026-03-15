@@ -11,10 +11,10 @@ This portfolio highlights my work in **backend development, full-stack applicati
 🔗 **View Live Website**
 
 ```
-https://your-portfolio-link.netlify.app
+https://prashanth-portfolio-web.netlify.app/
 ```
 
-*(Replace with your actual deployed link)*
+
 
 ---
 
