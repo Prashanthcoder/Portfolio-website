@@ -11,7 +11,7 @@ This portfolio highlights my work in **backend development, full-stack applicati
 🔗 **View Live Website**
 
 ```
-<a href="https://prashanth-portfolio-web.netlify.app/" target="_blank"> Porfolio Website </a>
+[<a href="https://prashanth-portfolio-web.netlify.app/" target="_blank"> Porfolio Website </a>](https://prashanth-portfolio-web.netlify.app/)
 ```
 
 
