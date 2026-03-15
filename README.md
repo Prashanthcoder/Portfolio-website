@@ -10,9 +10,9 @@ This portfolio highlights my work in **backend development, full-stack applicati
 
 🔗 **View Live Website**
 
-```
-<a href="https://prashanth-portfolio-web.netlify.app/" target="_blank"> Porfolio Website </a>
-```
+[![View Live Website](https://shields.io)](https://prashanth-portfolio-web.netlify.app/)
+
+
 
 
 
